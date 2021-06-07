@@ -2,7 +2,7 @@
 
 <div ｓｔｙle="display:flex;">
 
-   <ul style="flex:1;">
+   <ul style="flex:1;border:1px solid gray;">
     <li>�サイバー大学 准教授</li>
     <li>Web技術振興協会 代表理事</li>
     <li>Microsoft MVP</li>
