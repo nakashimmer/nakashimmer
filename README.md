@@ -1,7 +1,7 @@
-<span></span><style>
+<span><style>
   .flex{display:flex;}
   .flex *{flex:1;}
-</style>
+</style></span>
 
 <h1>なかしまぁ先生のGitHub</h1>
 
