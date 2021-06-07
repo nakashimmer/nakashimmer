@@ -1,15 +1,15 @@
 <h1>なかしまぁ先生のGitHub</h1>
 
-<div ｓｔｙle="float:right;width:50%;">
+<div ｓｔｙle="float:left;width:50%;">
 
-   <ul style="flex:1;border:10px solid gray;">
+   <ul style="float:left;width:50%;">
     <li>�サイバー大学 准教授</li>
     <li>Web技術振興協会 代表理事</li>
     <li>Microsoft MVP</li>
     <li>なかしまぁ先生のHTML5教室 運営</li>
   </ul>
-
-  <img  style="float:right;width:50%;" src="nakashimmer.png" alt="nakashimmer">
+  <div style="float:right;width:50%;">
+  <img   src="nakashimmer.png" alt="nakashimmer">
   
 </div>
 <!--
