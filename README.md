@@ -1,6 +1,6 @@
 <h1>なかしまぁ先生のGitHub</h1>
 
-<div ｓｔｙle="display:flex;">
+<div ｓｔｙle="display:flex;border:1px solid gray;">
 
    <ul style="flex:1;border:1px solid gray;">
     <li>�サイバー大学 准教授</li>
