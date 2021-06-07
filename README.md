@@ -9,7 +9,7 @@
     <li>なかしまぁ先生のHTML5教室 運営</li>
   </ul>
 
-  <img  style="flex:1;" src="nakashimmer.png" alt="nakashimmer">
+  <img  style="flex:1;display:block;" src="nakashimmer.png" alt="nakashimmer">
   
 </div>
 <!--
