@@ -1,4 +1,4 @@
-<style>
+<span></span><style>
   .flex{display:flex;}
   .flex *{flex:1;}
 </style>
