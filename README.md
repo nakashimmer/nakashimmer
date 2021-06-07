@@ -1,6 +1,6 @@
 <h1>なかしまぁ先生のGitHub</h1>
 
-<div ｓｔｙle="display:flex;border:1px solid gray;">
+<div ｓｔｙle="float:right;width:50%;">
 
    <ul style="flex:1;border:10px solid gray;">
     <li>�サイバー大学 准教授</li>
@@ -9,7 +9,7 @@
     <li>なかしまぁ先生のHTML5教室 運営</li>
   </ul>
 
-  <img  style="flex:1;display:block;" src="nakashimmer.png" alt="nakashimmer">
+  <img  style="float:right;width:50%;" src="nakashimmer.png" alt="nakashimmer">
   
 </div>
 <!--
